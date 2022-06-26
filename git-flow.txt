@@ -1,0 +1,10 @@
+git checkout -b "name"
+changes add/edit/remove
+git add
+git commit -m "message"
+git push (set upstream)
+repeat steps 2-5 ( push without upstream)
+New Pr (Pull request)
+merge
+Git checkout: switch to Main Branch 
+Git Pull
